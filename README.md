@@ -11,14 +11,9 @@
 
 ## Some of the Programming languages that I use.
  
-- ![Kotlin](https://img.shields.io/badge/kotlin-%230005D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%230005D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Typescript](https://img.shields.io/badge/typescript-%23007bcd.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GoLang](https://img.shields.io/badge/golang-%23007bcd.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-%23376c99.svg?style=for-the-badge&logo=python&logoColor=%23f7c93d)
 
-- ![Typescript](https://img.shields.io/badge/typescript-%23007bcd.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Follow me!
 
-- ![GoLang](https://img.shields.io/badge/golang-%23007bcd.svg?style=for-the-badge&logo=go&logoColor=white)
-
-- ![Python](https://img.shields.io/badge/python-%23376c99.svg?style=for-the-badge&logo=python&logoColor=%23f7c93d)
-
-Follow me!
-[<img src="https://raw.githubusercontent.com/Neuman968/Neuman968/main/assets/linkedin.png" height="40em" align="center" alt="Follow Neuman968 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/john-flynn-087554b7/)
-[<img src="https://raw.githubusercontent.com/Neuman968/Neuman968/main/assets/twitter.svg" height="40em" align="center" alt="Follow Neuman968 on Twitter" title="Follow me on Twitter"/>](https://twitter.com/flyguy493)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Neuman968 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/john-flynn-087554b7/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="40em" align="center" alt="Follow Neuman968 on Twitter" title="Follow me on Twitter"/>](https://twitter.com/flyguy493)
