@@ -16,4 +16,3 @@
 ### Follow me!
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40em" align="center" alt="Follow Neuman968 on LinkedIn" title="Follow me on LinkedIn"/>](https://www.linkedin.com/in/john-flynn-087554b7/)
-[<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Twitter-logo.svg" height="40em" align="center" alt="Follow Neuman968 on Twitter" title="Follow me on Twitter"/>](https://twitter.com/flyguy493)
