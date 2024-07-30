@@ -1,5 +1,5 @@
 
-# Welcome, My name is John Flynn.
+# Welcome. My name is John Flynn.
 
 ## About
 
